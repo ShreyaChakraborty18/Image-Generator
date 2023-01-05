@@ -1,7 +1,5 @@
 # AI Image-Generator
 
-# Image-Generator/AI
-
 In this world of Artificial Intelligence, automation
 is the next big thing. We have apps that can code and 
 make rap songs.<br>
