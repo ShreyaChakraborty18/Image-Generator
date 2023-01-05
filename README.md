@@ -19,7 +19,7 @@ AI generated.
 [![dependency - express](https://img.shields.io/static/v1?label=dependency&message=express&color=%232EF34F)](https://expressjs.com/)
 
 ## Demo
-https://image-generator-ai.onrender.com
+https://ai-image-generator-urhw.onrender.com
 
 ### Screenshot-1
 
